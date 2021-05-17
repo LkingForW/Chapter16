@@ -7,6 +7,10 @@
  c) Modify the constructor to specify course name and instructor name parameters
  d) Modify function displayMessage to output the welcome message and course name, then the string "This course is presented by: " followed by the instructors name.
 
+### 16.12 
+(Account Class) Create an Account that a bank might use to represent customer's bank accounts. Include a data member of type int to represent the account balance. Provide a constructor that r
+
+
 
 ## NOTE:
 C How to Program Exercise Files ( Seventh Edition) by Paul Deitel & Harvey Deitel Keep in mind that these are by no means the best solutions to these problems. I simply started this to help other developers and to teach myself.
