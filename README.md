@@ -8,7 +8,7 @@
  d) Modify function displayMessage to output the welcome message and course name, then the string "This course is presented by: " followed by the instructors name.
 
 ### 16.12 
-(Account Class) Create an Account that a bank might use to represent customer's bank accounts. Include a data member of type int to represent the account balance. Provide a constructor that r
+(Account Class) Create an Account that a bank might use to represent customer's bank accounts. Include a data member of type int to represent the account balance. Provide a constructor that receives an initial balance and uses it to initialize the dta member. The constructor should validate the initial balancee to ensure that it's greater than or equal to 0. If not, set the balance to 0 and display an error message indicating that the initial balance was invalid. Provide three member functions. Member function credit should add an amount to the current balance. Provide three member functions. Member function credit should add an amount to the current balance. Member function debit should add an amount to the current balance. Member function debit should withdraw money from the Account and ensure that the debit amount does not exceed the Account balance. If it does, the balance should be left unchanged and the function should pront a message indicating "Debit amount account balance." Member function getBalance should return the current balance. Create program that creates two Account objects and tests the member function of class Account. 
 
 
 
